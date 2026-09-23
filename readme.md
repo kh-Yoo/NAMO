@@ -2,8 +2,6 @@ NAMO(앱 출시 예정)
 
 <img width="1536" height="1024" alt="NAMO 소개" src="https://github.com/user-attachments/assets/1dfe6d18-9281-47e8-bcd5-7e186332ec07" />
 <img width="1254" height="1254" alt="NAMO 소개2" src="https://github.com/user-attachments/assets/ab0e164b-f242-448f-9541-081094c3c270" />
-<img width="1254" height="1254" alt="NAMO 소개2" src="https://github.com/user-attachments/assets/c87afb22-f1ab-46b5-b0a9-dd82f962d729" />
-<img width="1536" height="1024" alt="NAMO 소개" src="https://github.com/user-attachments/assets/a4b0d89b-8646-4f81-b3c0-c42a04da512b" />
 
 
 
