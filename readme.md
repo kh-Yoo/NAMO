@@ -1,5 +1,5 @@
 NAMO(앱 출시 예정)
-
+<img width="1200" height="800" alt="Image" src="https://github.com/user-attachments/assets/ad35ffd0-8289-4e57-a8bc-d74348f5f021" />
 내 손글씨로 만드는 메모와 일기
 
 NAMO는 사용자가 직접 쓴 한글 자모를 디지털 글꼴로 만들어 메모와 일기에 적용하는 Flutter 앱입니다. 손글씨를 등록하고, 생성된 글꼴로 글을 쓰거나 TTF 파일로 내보낼 수 있습니다.
