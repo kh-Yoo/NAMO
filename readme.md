@@ -1,7 +1,7 @@
 NAMO(앱 출시 예정)
 
-<img width="1254" height="1254" alt="NAMO 소개2" src="https://github.com/user-attachments/assets/06f1a814-d3c7-4ae6-ad30-76c3cc842691" />
-<img width="1536" height="1024" alt="NAMO 소개" src="https://github.com/user-attachments/assets/03b72ae4-1d53-4112-a200-12705105348a" />
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/b356ce3f-640c-4617-9663-8fd1fb5c5e03" />
+<img width="1254" height="1254" alt="Image" src="https://github.com/user-attachments/assets/2cf10fa1-01d4-4f1d-b078-b016e410bdd2" />
 
 
 내 손글씨로 만드는 메모와 일기
